@@ -2,24 +2,27 @@
 
 ## 🎮 Game Developer & Unity Enthusiast
 
-Passionate game developer with 6 months of hands-on experience in Unity and C#. Currently bringing my first game to life and loving every challenge along the way!
+Passionate game developer with 6 months of hands-on experience in Unity and C#. Currently bringing my first game to life and loving every challenge along the way! 
+
+🏢 **[ZOCK Games](https://github.com/orgs/ZOCK-Games)**
 
 ### 🚀 What I'm up to
-- 🔭 **Currently working on:** [Jimpu](http://github.com/ZOCK-Games/Jimpu) - my debut game project
-- 🌱 **Learning:** Advanced C# programming and Unity development techniques
-- 🎯 **Goal:** Creating engaging and memorable gaming experiences
+- 🔭 **Currently working on:** [Jimpu](http://github.com/ZOCK-Games/Jimpu)
+- 🏢 **Organization:** [ZOCK Games](https://github.com/orgs/ZOCK-Games)
+- 🌱 **Learning:** C# programming and Unity Game development 
+- 🎯 **Goal:** Creating fun Games
 - 📍 **Location:** Germany
 
 ### 💻 Tech Stack
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unity-colored.svg" width="36" height="36" alt="Unity" title="Unity"/></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/0d4428b88acbe0cc80e8a33ea81cd6fcfc461fd2ad7d9cf07005d230b083e050/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f756e6974792f756e6974792d6f726967696e616c2e737667" width="36" height="36" alt="Unity" title="Unity"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
 </p>
 
-### 📫 Let's Connect!
+### 📫 Connect!
 
 - 📧 **Email:** [zock868@gmail.com](mailto:zock868@gmail.com)
 - 💬 **Open to:** Collaboration, feedback, and game development discussions
@@ -86,4 +89,3 @@ If you enjoy my work or want to support my game development journey, consider bu
 
 ---
 
-*"Every game starts with a single line of code. Let's build something amazing together!"* 🎯
