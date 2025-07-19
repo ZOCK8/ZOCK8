@@ -81,11 +81,23 @@ Passionate game developer with 6 months of hands-on experience in Unity and C#. 
 
 ### ☕ Support My Journey
 
-If you enjoy my work or want to support my game development journey, consider buying me a coffee!
-
-<a href="https://www.ko-fi.com/zock8">
-<img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Buy Me a Coffee at ko-fi.com"/>
-</a>
+<table>
+  <tr>
+    <td>
+      If you enjoy my work or want to support my game development journey,<br>
+      consider buying me a coffee!<br><br>
+      <a href="https://www.ko-fi.com/zock8">
+        <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Buy Me a Coffee at ko-fi.com"/>
+      </a>
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://i.gifer.com/7IjS.gif" alt="Animation" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
+
+
 
