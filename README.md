@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Zock
 
-## 🎮 Game Developer & Unity Enthusiast
+## 🎮 Game Developer
 <img align="right" height="200" src="https://i.imgur.com/fJdfl4G.gif" alt="Animation" style="margin-left: 40%;" />
 Passionate game developer with 6 months of hands-on experience in Unity and C#. Currently bringing my first game to life and loving every challenge along the way! 
 
