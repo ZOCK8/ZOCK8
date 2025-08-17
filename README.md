@@ -2,7 +2,7 @@
 
 ## 🎮 Game Developer
 <img align="right" height="200" src="https://i.imgur.com/fJdfl4G.gif" alt="Animation" style="margin-left: 40%;" />
-Passionate game developer with 6 months of hands-on experience in Unity and C#. Currently bringing my first game to life and loving every challenge along the way! 
+Game developer with 6 months of experience in Unity and C#. Currently working on my first game! 
 
 🏢 **[ZOCK Games](https://github.com/orgs/ZOCK-Games)**
 
@@ -10,7 +10,7 @@ Passionate game developer with 6 months of hands-on experience in Unity and C#. 
 - 🔭 **Currently working on:** [Jimpu](http://github.com/ZOCK-Games/Jimpu)
 - 🏢 **Organization:** [ZOCK Games](https://github.com/orgs/ZOCK-Games)
 - 🌱 **Learning:** C# programming and Unity Game development 
-- 🎯 **Goal:** Creating fun Games
+- 🎯 **Goal:** Creating Games
 - 📍 **Location:** Germany
 
 ### 💻 Tech Stack
