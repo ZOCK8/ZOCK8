@@ -68,10 +68,8 @@ Game developer with 6 months of experience in Unity and C#. Currently working on
 ---
 
 ### 📊 Some Games:
+[![Dinosaur, Avoiding Fate](https://img.itch.zone/aW1hZ2UvMzgzNTcyNi82NDAwNzM0LnBuZw==/original/0DnN8C.png)](https://zock8.itch.io/dinosaur-avoiding-fate)
 
-<p align="center">
-<iframe frameborder="0" src="https://itch.io/embed/3835726?bg_color=000000&amp;fg_color=d7d7d7&amp;link_color=327345&amp;border_color=7f7f7f" width="552" height="167"><a href="https://zock8.itch.io/dinosaur-avoiding-fate">Dinosaur, Avoiding Fate by ZOCK8, Prince Yarjack, Marra</a></iframe>
-</p>
 
 ---
 
