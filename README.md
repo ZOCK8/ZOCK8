@@ -67,14 +67,10 @@ Game developer with 6 months of experience in Unity and C#. Currently working on
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Some Games:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZOCK8&show_icons=true&hide=issues&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true" alt="ZOCK8's GitHub stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZOCK8&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="ZOCK8's GitHub streak" />
+<iframe frameborder="0" src="https://itch.io/embed/3835726?bg_color=000000&amp;fg_color=d7d7d7&amp;link_color=327345&amp;border_color=7f7f7f" width="552" height="167"><a href="https://zock8.itch.io/dinosaur-avoiding-fate">Dinosaur, Avoiding Fate by ZOCK8, Prince Yarjack, Marra</a></iframe>
 </p>
 
 ---
