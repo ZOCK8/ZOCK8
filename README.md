@@ -19,7 +19,8 @@ Game developer with 6 months of experience in Unity and C#. Currently working on
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/0d4428b88acbe0cc80e8a33ea81cd6fcfc461fd2ad7d9cf07005d230b083e050/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f756e6974792f756e6974792d6f726967696e616c2e737667" width="36" height="36" alt="Unity" title="Unity"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" width="36" height="36" alt="HTML5" title=""/></a>
 </p>
 
 ### 📫 Connect!
