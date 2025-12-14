@@ -2,7 +2,7 @@
 
 ## 🎮 Game Developer
 <img align="right" height="200" src="https://i.imgur.com/fJdfl4G.gif" alt="Animation" style="margin-left: 40%;" />
-Game developer with 6 months of experience in Unity and C#. Currently working on my first game! 
+Game developer with 1 year of experience in Unity and C#. Currently working on my first big game! 
 
 🏢 **[ZOCK Games](https://github.com/orgs/ZOCK-Games)**
 
