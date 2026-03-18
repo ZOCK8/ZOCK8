@@ -9,7 +9,7 @@ Game developer with 1 year of experience in Unity and C#. Currently working on m
 ### 🚀 What I'm up to
 - 🔭 **Currently working on:** [Jimpu](http://github.com/ZOCK-Games/Jimpu)
 - 🏢 **Organization:** [ZOCK Games](https://github.com/orgs/ZOCK-Games)
-- 🌱 **Learning:** C# programming and Unity Game development 
+- 🌱 **Learning:** Unity Game development + Java
 - 🎯 **Goal:** Creating Games
 - 📍 **Location:** Germany
 
