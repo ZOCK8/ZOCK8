@@ -21,6 +21,7 @@ Game developer with 1 year of experience in Unity and C#. Currently working on m
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" width="36" height="36" alt="HTML5" title=""/></a>
+<a href="https://www.java.com/de/" target="_blank" rel="noreferrer"><img src="https://github.com/ZOCK8/ZOCK8/blob/main/2945017.webp?raw=true" width="36" height="36" alt="HTML5" title=""/></a>
 </p>
 
 ### 📫 Connect!
